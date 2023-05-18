@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_food_img_1.png.flat",
+        "source": "food.app.demo.app-main-20:/drawable/food_img_1.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_login_background.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/login_background.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_ic_food_back.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/ic_food_back.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_ic_food_home.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/ic_food_home.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "food.app.demo.app-main-20:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/layout_no_internet_dialog.xml.flat",
+        "source": "food.app.demo.app-main-20:/layout/no_internet_dialog.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_ic_launcher_background.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_internet_background.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/internet_background.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/font_nunito.xml.flat",
+        "source": "food.app.demo.app-main-20:/font/nunito.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_ic_food_search.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/ic_food_search.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_ic_no_internet.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/ic_no_internet.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "food.app.demo.app-main-20:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_ic_food_cart.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/ic_food_cart.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/layout_activity_login.xml.flat",
+        "source": "food.app.demo.app-main-20:/layout/activity_login.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "food.app.demo.app-main-20:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "food.app.demo.app-main-20:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_splash_image.png.flat",
+        "source": "food.app.demo.app-main-20:/drawable/splash_image.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_internet_bg.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/internet_bg.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "food.app.demo.app-main-20:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "food.app.demo.app-pngs-13:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_ic_food_user.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/ic_food_user.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/layout_activity_get_started.xml.flat",
+        "source": "food.app.demo.app-main-20:/layout/activity_get_started.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_circle_background.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "food.app.demo.app-main-20:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "food.app.demo.app-main-20:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_get_started_background.png.flat",
+        "source": "food.app.demo.app-main-20:/drawable/get_started_background.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_small_icon.png.flat",
+        "source": "food.app.demo.app-main-20:/drawable/small_icon.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_food_title.png.flat",
+        "source": "food.app.demo.app-main-20:/drawable/food_title.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/layout_fragment_login.xml.flat",
+        "source": "food.app.demo.app-main-20:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_rectangle_background.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/rectangle_background.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/layout_activity_food_detail.xml.flat",
+        "source": "food.app.demo.app-main-20:/layout/activity_food_detail.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/font_nunito_semibold.xml.flat",
+        "source": "food.app.demo.app-main-20:/font/nunito_semibold.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/layout_fragment_register.xml.flat",
+        "source": "food.app.demo.app-main-20:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_ic_food_menu.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/ic_food_menu.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/layout_activity_splash.xml.flat",
+        "source": "food.app.demo.app-main-20:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/layout_food_item_layout.xml.flat",
+        "source": "food.app.demo.app-main-20:/layout/food_item_layout.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_food_for_everyone.png.flat",
+        "source": "food.app.demo.app-main-20:/drawable/food_for_everyone.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/layout_activity_dashboard.xml.flat",
+        "source": "food.app.demo.app-main-20:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_food_img_2.png.flat",
+        "source": "food.app.demo.app-main-20:/drawable/food_img_2.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_logo_one.png.flat",
+        "source": "food.app.demo.app-main-20:/drawable/logo_one.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "food.app.demo.app-main-20:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "food.app.demo.app-main-20:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "food.app.demo.app-main-20:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_ic_food_fav.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/ic_food_fav.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/layout_fragment_foods.xml.flat",
+        "source": "food.app.demo.app-main-20:/layout/fragment_foods.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "food.app.demo.app-main-20:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_splash_circle_background.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/splash_circle_background.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "food.app.demo.app-main-20:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_ic_food_history.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/ic_food_history.xml"
+    },
+    {
+        "merged": "food.app.demo.app-merged_res-18:/drawable_no_internet_background.xml.flat",
+        "source": "food.app.demo.app-main-20:/drawable/no_internet_background.xml"
+    }
+]

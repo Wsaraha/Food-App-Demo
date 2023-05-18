@@ -1,0 +1,73 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="food.app.demo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:4:5-79
+11-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:4:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:5:5-67
+12-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:5:22-64
+13
+14    <application
+14-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:7:5-29:19
+15        android:allowBackup="true"
+15-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:8:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.1] /home/emobilis/.gradle/caches/transforms-3/1982d2d950a60c10b06ad901f293f496/transformed/core-1.3.1/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:10:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:11:9-54
+21        android:supportsRtl="true"
+21-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/Theme.FoodAppDemo" >
+23-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:13:9-49
+24        <activity android:name="food.app.demo.FoodDetailActivity" />
+24-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:14:9-56
+24-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:14:19-53
+25        <activity android:name="food.app.demo.DashboardActivity" />
+25-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:15:9-55
+25-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:15:19-52
+26        <activity android:name="food.app.demo.LoginActivity" />
+26-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:16:9-51
+26-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:16:19-48
+27        <activity android:name="food.app.demo.GetStartedActivity" />
+27-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:17:9-56
+27-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:17:19-53
+28        <activity android:name="food.app.demo.SplashActivity" >
+28-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:18:9-24:20
+28-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:18:19-49
+29            <intent-filter>
+29-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:19:13-23:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:20:17-69
+30-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:20:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:22:17-77
+32-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:22:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <meta-data
+36-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:26:9-28:57
+37            android:name="preloaded_fonts"
+37-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:27:13-43
+38            android:resource="@array/preloaded_fonts" />
+38-->/home/emobilis/Downloads/Food-App-Source-Code-master/app/src/main/AndroidManifest.xml:28:13-54
+39    </application>
+40
+41</manifest>
